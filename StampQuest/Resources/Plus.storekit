@@ -1,0 +1,87 @@
+{
+  "identifier": "5E2A1C11",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "6740000301",
+      "localizations": [
+        {
+          "description": "Stamps for the shores you picked. Buy once, keep forever.",
+          "displayName": "Coasts",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.stampquest.pack.coasts",
+      "referenceName": "Coasts pack",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000001",
+      "localizations": [],
+      "name": "StampQuest Plus (TEST DATA)",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "29.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "6740000101",
+          "localizations": [
+            {
+              "description": "Plus, billed yearly",
+              "displayName": "Plus yearly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.stampquest.plus.yearly",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Plus yearly",
+          "subscriptionGroupID": "21000001",
+          "type": "RecurringSubscription",
+          "winbackOffers": [],
+          "introductoryOffer": {
+            "internalID": "6740000201",
+            "paymentMode": "free",
+            "subscriptionPeriod": "P1W"
+          }
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "4.99",
+          "familyShareable": false,
+          "groupNumber": 2,
+          "internalID": "6740000102",
+          "localizations": [
+            {
+              "description": "Plus, billed monthly",
+              "displayName": "Plus monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.stampquest.plus.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Plus monthly",
+          "subscriptionGroupID": "21000001",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

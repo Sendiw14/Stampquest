@@ -1,0 +1,37 @@
+included:
+  - StampQuest
+  - StampQuestTests
+  - StampQuestUITests
+
+excluded:
+  - StampQuest.xcodeproj
+
+disabled_rules:
+  - line_length          # SwiftUI view builders and catalog-style tables run long by nature
+  - identifier_name      # art-space geometry uses short names (g, p, c, r, x, y)
+  - type_body_length
+  - function_body_length
+  - file_length
+  - cyclomatic_complexity
+  - large_tuple
+  - nesting
+  - trailing_comma
+  - function_parameter_count      # drawing helpers take geometry arguments
+  - statement_position
+  - multiple_closures_with_trailing_closure   # idiomatic SwiftUI
+
+opt_in_rules:
+  - empty_count
+  - first_where
+  - sorted_first_last
+
+force_cast: error
+force_try: warning
+
+custom_rules:
+  no_print_statements:
+    name: "No print in app code"
+    regex: '^\s*print\('
+    match_kinds: [identifier]
+    message: "Use Logger (OSLog) instead of print."
+    severity: warning

@@ -1,0 +1,3071 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {},
+    "%@" : {},
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ is no longer in your passport. You can undo this for a few seconds." : {},
+    "%@ stamp" : {},
+    "%@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "%@, %@, %@" : {},
+    "%@, %@, %lld stamps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@, %3$lld stamps"
+          }
+        }
+      }
+    },
+    "%@, %@. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@. %3$@"
+          }
+        }
+      }
+    },
+    "%@, %@. %@. Not in your passport." : {},
+    "%@, %@. In your passport." : {},
+    "%@, %@. On your wishlist." : {},
+    "%@, %@. Verified visit." : {},
+    "%@, %lld places" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$lld places"
+          }
+        }
+      }
+    },
+    "%lld" : {},
+    "%lld %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@"
+          }
+        }
+      }
+    },
+    "%lld %@ · %lld %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@ · %3$lld %4$@"
+          }
+        }
+      }
+    },
+    "%lld %@ · %lld verified" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@ · %3$lld verified"
+          }
+        }
+      }
+    },
+    "%lld are in your passport." : {},
+    "%lld collected · %lld verified · %lld saved" : {},
+    "%lld left in %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld left in %2$@"
+          }
+        }
+      }
+    },
+    "%lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "%lld of %lld unlocked" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld unlocked"
+          }
+        }
+      }
+    },
+    "%lld of %lld. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld. %3$@"
+          }
+        }
+      }
+    },
+    "%lld photo(s) couldn’t be added. Everything else is fine." : {},
+    "%lld photos" : {},
+    "%lld places" : {},
+    "%lld saved" : {},
+    "%lld stamps" : {},
+    "%lld stamps from %lld countries so far." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld stamps from %2$lld countries so far."
+          }
+        }
+      }
+    },
+    "%lld stamps from 1 country so far." : {},
+    "**Countries** and **Regions** come from the stamps you’ve collected. Wishlisted places are never counted as visited." : {},
+    "**Stamps** are unique stamps in your passport. **Verified visits** are stamps where a location check succeeded at the time; collecting manually is never counted as a verified visit." : {},
+    "1 place" : {},
+    "1 stamp" : {},
+    "A few favourites from the catalog" : {},
+    "A line to remember this stamp by" : {},
+    "About %@" : {},
+    "About StampQuest" : {},
+    "Achievements" : {},
+    "Active filters" : {},
+    "Add" : {},
+    "Add a title, some words or a photo to save this memory." : {},
+    "Add memory" : {},
+    "Add more photos" : {},
+    "Add photos" : {},
+    "Add stamps" : {},
+    "Add stamps and memories to build this trip’s timeline." : {},
+    "Add to favourites" : {},
+    "Add to wishlist" : {},
+    "Added to your passport" : {},
+    "Added to your passport · Visit verified" : {},
+    "Adding photos…" : {},
+    "Africa" : {},
+    "All" : {},
+    "All collected" : {},
+    "All collections" : {},
+    "All countries" : {},
+    "All data deleted" : {},
+    "All stamp illustrations are original artwork drawn for StampQuest." : {},
+    "All stamps" : {},
+    "Allowed" : {},
+    "Alphabetical" : {},
+    "Already verified" : {},
+    "Always reduce" : {},
+    "Any" : {},
+    "Appearance" : {},
+    "Appearance, haptics, motion and location settings return to their defaults. Your passport isn’t affected." : {},
+    "Architecture" : {},
+    "Archived places" : {},
+    "Are you at %@?" : {},
+    "Asia" : {},
+    "At a glance" : {},
+    "Back to the map" : {},
+    "Back up and start a new passport" : {},
+    "Beach" : {},
+    "Beaches" : {},
+    "Browse all destinations" : {},
+    "Browse by category" : {},
+    "COLLECTED" : {},
+    "Cancel" : {},
+    "Can’t save this trip" : {},
+    "Catalog" : {},
+    "Category" : {},
+    "Check my location" : {},
+    "Check the spelling, or try a country or a landmark." : {},
+    "Check the spelling, try a country or a landmark, or clear your filters." : {},
+    "Cities" : {},
+    "City" : {},
+    "Clear" : {},
+    "Clear filter" : {},
+    "Clear filters" : {},
+    "Clear text" : {},
+    "Close" : {},
+    "Collect a place and it appears here." : {},
+    "Collect a stamp first, then add it to a trip." : {},
+    "Collect a stamp from this set and it will appear here." : {},
+    "Collect a stamp to start your passport. It takes one tap, and no account." : {},
+    "Collect five different stamps." : {},
+    "Collect or verify a stamp and it will appear on the map." : {},
+    "Collect stamp" : {},
+    "Collect stamps from three countries." : {},
+    "Collect ten different stamps." : {},
+    "Collect without verifying" : {},
+    "Collect your first stamp to begin." : {},
+    "Collect your first stamp." : {},
+    "Collected" : {},
+    "Collected %@" : {},
+    "Collected and verified on location. Gold appears only here." : {},
+    "Collected by hand or on a visit." : {},
+    "Collected manually" : {},
+    "Collecting over time" : {},
+    "Collection" : {},
+    "Collection complete" : {},
+    "Collection not found" : {},
+    "Collections" : {},
+    "Collections completed" : {},
+    "Collections done" : {},
+    "Colour" : {},
+    "Complete" : {},
+    "Complete every stamp in a collection." : {},
+    "Continue" : {},
+    "Continue collecting" : {},
+    "Continue exploring" : {},
+    "Couldn’t delete" : {},
+    "Couldn’t find your location. Try again." : {},
+    "Couldn’t get your location" : {},
+    "Couldn’t prepare the image" : {},
+    "Couldn’t prepare the page" : {},
+    "Couldn’t save" : {},
+    "Couldn’t update" : {},
+    "Countries" : {},
+    "Country" : {},
+    "Create a trip" : {},
+    "Create a trip." : {},
+    "Dark" : {},
+    "Date" : {},
+    "Dates" : {},
+    "Delete all my data…" : {},
+    "Delete all your data?" : {},
+    "Delete everything" : {},
+    "Delete memory" : {},
+    "Delete this memory?" : {},
+    "Delete trip" : {},
+    "Delete “%@”?" : {},
+    "Destination" : {},
+    "Destinations" : {},
+    "Discover" : {},
+    "Discover destinations" : {},
+    "Done" : {},
+    "Double tap to zoom in." : {},
+    "Edit memory" : {},
+    "Edit trip" : {},
+    "End date" : {},
+    "Ends" : {},
+    "Europe" : {},
+    "Every number here is counted from your records." : {},
+    "Every place stays browsable without it" : {},
+    "Explore by region" : {},
+    "Explore three world regions." : {},
+    "Export my data" : {},
+    "Favourites" : {},
+    "Favourites first" : {},
+    "Favourites only" : {},
+    "Featured destination" : {},
+    "Featured destination: %@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Featured destination: %1$@, %2$@"
+          }
+        }
+      }
+    },
+    "Featured places" : {},
+    "Filter" : {},
+    "Filters" : {},
+    "Filters, %lld active" : {},
+    "Finding your location…" : {},
+    "Finished %@" : {},
+    "First Collection Completed" : {},
+    "First Memory" : {},
+    "First Stamp" : {},
+    "First Trip" : {},
+    "First Verified Visit" : {},
+    "Five Destinations" : {},
+    "Follow system" : {},
+    "Food & Culture" : {},
+    "Food & culture" : {},
+    "For example: food, sunset, friends" : {},
+    "Forest" : {},
+    "From %@" : {},
+    "Give your trip a name." : {},
+    "Good afternoon" : {},
+    "Good evening" : {},
+    "Good morning" : {},
+    "Grid" : {},
+    "Group pages by" : {},
+    "Group stamps and memories into a trip to see them together on a timeline." : {},
+    "Hand-picked from the catalog" : {},
+    "Haptic feedback" : {},
+    "Hidden Gems" : {},
+    "Hidden gem" : {},
+    "Historic Landmarks" : {},
+    "Historic landmark" : {},
+    "Home" : {},
+    "How" : {},
+    "How we count" : {},
+    "In passport" : {},
+    "In your passport" : {},
+    "Include collection date" : {},
+    "Include private notes" : {},
+    "Island" : {},
+    "Islands" : {},
+    "It may have been deleted." : {},
+    "It may have been removed from the catalog." : {},
+    "It may have been removed from the catalog. Your memories and stamps about it are safe." : {},
+    "It’s safely in your passport." : {},
+    "Jumps to your stamps" : {},
+    "Keep exploring" : {},
+    "Latest" : {},
+    "Latest stamp" : {},
+    "Latest stamp: %@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Latest stamp: %1$@, %2$@"
+          }
+        }
+      }
+    },
+    "Layer" : {},
+    "Layout" : {},
+    "Light" : {},
+    "List" : {},
+    "List of places" : {},
+    "Loading…" : {},
+    "Locate me" : {},
+    "Location Services are off" : {},
+    "Location access" : {},
+    "Location access is off for StampQuest" : {},
+    "Location access is restricted" : {},
+    "Location access is restricted on this device. You can still collect this stamp without verifying." : {},
+    "Location can be inaccurate or faked, so this is a friendly check, not proof." : {},
+    "Location is off" : {},
+    "Location is unavailable" : {},
+    "Location is used once, in the foreground, when you tap “Verify my visit”. Your coordinates are never saved or sent anywhere. If verification succeeds, only the distance to the place and the accuracy of the reading are kept. You can still collect any stamp without verifying." : {},
+    "Location isn’t available right now. You can still collect this stamp without verifying." : {},
+    "Location verification" : {},
+    "Location verification is off" : {},
+    "Location, only when you ask" : {},
+    "MY PASSPORT" : {},
+    "Map" : {},
+    "Map markers" : {},
+    "Map, %@" : {},
+    "Marker guide" : {},
+    "Memories" : {},
+    "Memory" : {},
+    "Memory not found" : {},
+    "Midnight" : {},
+    "Milestones come from your real records and unlock quietly, at your own pace." : {},
+    "Missing" : {},
+    "Month" : {},
+    "More from %@" : {},
+    "Motion & haptics" : {},
+    "Museum" : {},
+    "Museums" : {},
+    "My StampQuest passport" : {},
+    "My passport" : {},
+    "National Parks" : {},
+    "National park" : {},
+    "Nature" : {},
+    "Never tracked in the background" : {},
+    "New memory" : {},
+    "New trip" : {},
+    "Next up" : {},
+    "No location was used and nothing was recorded." : {},
+    "No matches" : {},
+    "No matching memories" : {},
+    "No place" : {},
+    "No places" : {},
+    "No places match" : {},
+    "No places to show" : {},
+    "No places yet" : {},
+    "No stamps in this selection" : {},
+    "No stamps match" : {},
+    "No stamps yet" : {},
+    "No tracking" : {},
+    "No trips yet" : {},
+    "No verified visits yet" : {},
+    "No wishlisted places" : {},
+    "None" : {},
+    "North America" : {},
+    "Not allowed" : {},
+    "Not asked yet" : {},
+    "Not collected" : {},
+    "Not in a trip" : {},
+    "Not in your passport yet" : {},
+    "Not in your passport yet." : {},
+    "Not now" : {},
+    "Notes" : {},
+    "Nothing collected yet" : {},
+    "Nothing here yet" : {},
+    "Nothing matches this layer and search." : {},
+    "Nothing on your wishlist" : {},
+    "Nothing saved yet" : {},
+    "Nothing written yet. Add a note or a photo to remember this place." : {},
+    "Nothing yet" : {},
+    "OK" : {},
+    "Oceania" : {},
+    "Offer visit verification" : {},
+    "On" : {},
+    "On your wishlist" : {},
+    "One is in your passport." : {},
+    "Only the artwork, the place name and (if you choose) the date are shared. Never your notes, photos or location." : {},
+    "Only the trip is deleted. Its stamps and memories stay where they are." : {},
+    "Only when you locate or verify a visit" : {},
+    "Open" : {},
+    "Open Settings" : {},
+    "Open details" : {},
+    "Open iOS Settings" : {},
+    "Open list" : {},
+    "Open my passport" : {},
+    "Open your passport" : {},
+    "Opens a place in StampQuest so you can collect its stamp." : {},
+    "Opens the destination" : {},
+    "Opens the place" : {},
+    "Opens the stamp" : {},
+    "Opens your StampQuest passport." : {},
+    "Other" : {},
+    "PASSPORT" : {},
+    "Page %lld" : {},
+    "Pages" : {},
+    "Paper" : {},
+    "Part of" : {},
+    "Passport" : {},
+    "Passport cover" : {},
+    "Photo" : {},
+    "Photo unavailable" : {},
+    "Photos" : {},
+    "Photos you choose" : {},
+    "Pick a different set, or mark some stamps as favourites first." : {},
+    "Pick a place you love and collect its stamp. It stays in your passport, on this device, with no account." : {},
+    "Pick up where you left off" : {},
+    "Place" : {},
+    "Place to collect" : {},
+    "Places" : {},
+    "Places on this trip" : {},
+    "Places to start" : {},
+    "Places, countries, landmarks" : {},
+    "Preparing preview…" : {},
+    "Preview of the image you’re about to share" : {},
+    "Preview of the passport page you’re about to share" : {},
+    "Privacy" : {},
+    "Privacy & your data" : {},
+    "Privacy policy" : {},
+    "Private to this device. Never included when you share a stamp or export your passport." : {},
+    "Private. It never appears in anything you share." : {},
+    "Progress" : {},
+    "Recent activity" : {},
+    "Recently collected" : {},
+    "Recently viewed" : {},
+    "Reduce motion" : {},
+    "Reference point" : {},
+    "Region" : {},
+    "Regions explored" : {},
+    "Remove" : {},
+    "Remove %@ from your passport?" : {},
+    "Remove from favourites" : {},
+    "Remove from passport" : {},
+    "Remove from wishlist" : {},
+    "Remove photo" : {},
+    "Remove stamp" : {},
+    "Removed %@" : {},
+    "Removed from your passport" : {},
+    "Reset" : {},
+    "Reset preferences" : {},
+    "Reset preferences?" : {},
+    "Restricted" : {},
+    "Rose" : {},
+    "STAMPQUEST" : {},
+    "Save" : {},
+    "Save places you’d like to visit" : {},
+    "Save to wishlist" : {},
+    "Saved" : {},
+    "Saved to collect later." : {},
+    "Search" : {},
+    "Search memories" : {},
+    "Search places" : {},
+    "Search places or landmarks" : {},
+    "Search your stamps" : {},
+    "See %@" : {},
+    "See all" : {},
+    "Selected %@" : {},
+    "Send feedback" : {},
+    "Settings" : {},
+    "Several places" : {},
+    "Share a passport page…" : {},
+    "Share image" : {},
+    "Share passport page" : {},
+    "Share stamp" : {},
+    "Shared stamp images contain only the artwork and public place name. Your notes, memories, photos and location are never included." : {},
+    "Sharing is deliberate" : {},
+    "Show" : {},
+    "Show a destination" : {},
+    "Show all places" : {},
+    "Show destination" : {},
+    "Show list" : {},
+    "Show map" : {},
+    "Show results" : {},
+    "Since %@" : {},
+    "Skipped entries" : {},
+    "Sky" : {},
+    "Something went wrong" : {},
+    "Sort and filter" : {},
+    "Sort and filter, %lld filters on" : {},
+    "Sort by" : {},
+    "South America" : {},
+    "Stamp" : {},
+    "Stamp added" : {},
+    "StampQuest" : {},
+    "StampQuest checks your location once, right now. It never tracks you in the background." : {},
+    "StampQuest has no analytics, advertising or tracking code, and doesn’t build a profile of you." : {},
+    "StampQuest only sees photos you pick for a memory. They’re copied into the app, shrunk, and stripped of embedded location data." : {},
+    "StampQuest passport backup" : {},
+    "Stamps" : {},
+    "Stamps collected" : {},
+    "Stamps collected per month over the last 12 months" : {},
+    "Stamps per month, last 12 months" : {},
+    "Stamps, wishlist, memories, trips and photos are stored only on this device. There’s no account, no sign-in, and nothing is uploaded." : {},
+    "Start date" : {},
+    "Starts" : {},
+    "Statistics" : {},
+    "Status" : {},
+    "Stays on your device" : {},
+    "Style" : {},
+    "System" : {},
+    "Tags, separated by commas" : {},
+    "Tap the bookmark on a place to save it for later." : {},
+    "Tap the heart on a destination to see it on the map." : {},
+    "Tap the heart on any destination to save it for later. Wishlisted places aren’t counted as visited." : {},
+    "Tap to zoom in. A check means one is already in your passport." : {},
+    "Ten Destinations" : {},
+    "Terms of use" : {},
+    "Terracotta" : {},
+    "That location reading wasn’t usable" : {},
+    "That photo couldn’t be read." : {},
+    "That place is no longer in the catalog." : {},
+    "The catalog couldn’t be loaded" : {},
+    "The export is a JSON file of your stamps, wishlist and trips. Journal text, captions and trip notes are left out unless you include them. Photos are never exported." : {},
+    "The map can’t load right now" : {},
+    "The memory and its photos are removed from this device. Your stamps and trips aren’t affected." : {},
+    "The old data couldn’t be moved aside. Nothing has been deleted." : {},
+    "The photo couldn’t be saved." : {},
+    "The reading is only accurate to about %lld m. Try again with a clearer view of the sky, or collect without verifying." : {},
+    "The trip can’t end before it starts." : {},
+    "The trip couldn’t be saved." : {},
+    "Theme" : {},
+    "Themed sets to complete" : {},
+    "There are no places in this list." : {},
+    "There are no places on the map right now." : {},
+    "There are no places to list." : {},
+    "This destination has no reference location. You can still collect it without verifying." : {},
+    "This permanently removes every stamp, wishlist entry, memory, trip and photo from this device. It can’t be undone, so export first if you want a copy." : {},
+    "This place can’t be verified" : {},
+    "This place isn’t available" : {},
+    "This usually takes a few seconds." : {},
+    "This visit was verified earlier, so nothing changed." : {},
+    "Three Countries" : {},
+    "Three Regions" : {},
+    "Timeline" : {},
+    "Title" : {},
+    "Today’s stamp" : {},
+    "Trip" : {},
+    "Trip name" : {},
+    "Trip not found" : {},
+    "Trips" : {},
+    "Try a different search, or clear your filters to see everything." : {},
+    "Try again" : {},
+    "Try again in a moment, or collect this stamp without verifying." : {},
+    "Try different words, or clear the tag filter." : {},
+    "Turn it on in Settings to use Locate. Everything else still works." : {},
+    "Turn on Location Services in the Settings app to verify visits. You can still collect this stamp without verifying." : {},
+    "Undo" : {},
+    "Unlocked %@" : {},
+    "Until %@" : {},
+    "Untitled memory" : {},
+    "Use the List button for a list of places" : {},
+    "Use your location?" : {},
+    "VISITED" : {},
+    "Verification cancelled" : {},
+    "Verification is optional and happens only when you tap “Verify my visit”. StampQuest checks your location once, in the foreground. It never tracks you or keeps a location history, and manual collecting always works." : {},
+    "Verification range" : {},
+    "Verified" : {},
+    "Verified first" : {},
+    "Verified on location" : {},
+    "Verified visit" : {},
+    "Verified visits" : {},
+    "Verified visits only" : {},
+    "Verify a visit from a place’s page and it appears here." : {},
+    "Verify a visit while you are there." : {},
+    "Verify my visit" : {},
+    "Verify visit" : {},
+    "Version" : {},
+    "View destination" : {},
+    "View in passport" : {},
+    "View stamp" : {},
+    "Visit verified" : {},
+    "Waiting for your permission…" : {},
+    "We couldn’t get a location fix in time. Try again outdoors, or collect this stamp without verifying." : {},
+    "What do you want to remember?" : {},
+    "Which stamps" : {},
+    "Wishlist" : {},
+    "Wishlisted" : {},
+    "Write a few words or add photos from a trip. They stay private on this device and never appear in anything you share." : {},
+    "Write a memory" : {},
+    "Write down a memory." : {},
+    "You can allow location access in the Settings app. You can still collect this stamp without verifying." : {},
+    "You can export your data or delete everything at any time from Settings." : {},
+    "You can still search and browse every place in the list below." : {},
+    "You can turn it back on in Settings. You can still collect this stamp without verifying." : {},
+    "You completed %@" : {},
+    "You don’t seem to be there yet" : {},
+    "You have every stamp in this collection." : {},
+    "You might also like" : {},
+    "Your change couldn’t be saved, so nothing was changed. Please try again." : {},
+    "Your change couldn’t be saved." : {},
+    "Your coordinates aren’t saved or sent anywhere. If it works, only the distance to the place is kept." : {},
+    "Your data" : {},
+    "Your existing data is moved to a backup folder on this device, not deleted." : {},
+    "Your first stamp is waiting" : {},
+    "Your location isn’t precise enough" : {},
+    "Your memories" : {},
+    "Your memories about this place are kept. You can undo this right after." : {},
+    "Your memories live here" : {},
+    "Your memory couldn’t be saved." : {},
+    "Your note" : {},
+    "Your own position shows on the map only after you tap Locate." : {},
+    "Your passport" : {},
+    "Your passport belongs to you" : {},
+    "Your passport couldn’t be opened" : {},
+    "Your passport data could not be opened. Nothing has been deleted. %@" : {},
+    "Your passport is empty again. Nothing is stored on this device." : {},
+    "Your passport, %lld stamps from %lld countries, %lld verified visits" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your passport, %1$lld stamps from %2$lld countries, %3$lld verified visits"
+          }
+        }
+      }
+    },
+    "Your passport, no stamps yet" : {},
+    "Your position" : {},
+    "Your timeline will appear here once you’ve collected a couple of stamps." : {},
+    "Your travel story" : {},
+    "Your wishlist" : {},
+    "Your world, one stamp at a time." : {},
+    "You’re about %@ away, and verification needs you within %@. Nothing was recorded. You can still collect this stamp without verifying." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You’re about %1$@ away, and verification needs you within %2$@. Nothing was recorded. You can still collect this stamp without verifying."
+          }
+        }
+      }
+    },
+    "You’re about %@ from %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You’re about %1$@ from %2$@."
+          }
+        }
+      }
+    },
+    "You’re in control" : {},
+    "You’re offline. Map tiles may be missing, but everything else works." : {},
+    "^[%lld place](inflect: true)" : {},
+    "exit.a11y.added %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ added"
+          }
+        }
+      }
+    },
+    "exit.a11y.buy %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy %1$@, %2$@"
+          }
+        }
+      }
+    },
+    "exit.a11y.buying %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buying %@"
+          }
+        }
+      }
+    },
+    "exit.a11y.included %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, included"
+          }
+        }
+      }
+    },
+    "exit.a11y.list" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Included with the free passport"
+          }
+        }
+      }
+    },
+    "exit.a11y.pending %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, waiting for approval"
+          }
+        }
+      }
+    },
+    "exit.a11y.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start free, upgrade later"
+          }
+        }
+      }
+    },
+    "exit.close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "exit.close.hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back to StampQuest Plus"
+          }
+        }
+      }
+    },
+    "exit.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue with the free passport"
+          }
+        }
+      }
+    },
+    "exit.error.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The purchase didn’t complete. Please try again."
+          }
+        }
+      }
+    },
+    "exit.error.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t complete the purchase"
+          }
+        }
+      }
+    },
+    "exit.free.collect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect every free stamp"
+          }
+        }
+      }
+    },
+    "exit.free.offline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Works offline, no account"
+          }
+        }
+      }
+    },
+    "exit.free.tools" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wishlist, map, memories, trips"
+          }
+        }
+      }
+    },
+    "exit.link" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See Plus again"
+          }
+        }
+      }
+    },
+    "exit.pack.added" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Added"
+          }
+        }
+      }
+    },
+    "exit.pack.blurb %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stamps for %@. Buy once, keep forever."
+          }
+        }
+      }
+    },
+    "exit.pack.blurb.generic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pack of extra stamps. Buy once, keep forever."
+          }
+        }
+      }
+    },
+    "exit.pack.label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prefer not to subscribe?"
+          }
+        }
+      }
+    },
+    "exit.pack.pending" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pending"
+          }
+        }
+      }
+    },
+    "exit.pack.subject.coasts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the shores you picked"
+          }
+        }
+      }
+    },
+    "exit.pack.title %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ pack"
+          }
+        }
+      }
+    },
+    "exit.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your stamps and memories always stay yours. Plus is here if you want more."
+          }
+        }
+      }
+    },
+    "exit.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start ⟦free⟧,\nupgrade later"
+          }
+        }
+      }
+    },
+    "of %lld stamps" : {},
+    "onboarding.common.back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "onboarding.common.close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "onboarding.common.continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.common.done" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "onboarding.common.skip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.carousel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport cover preview"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.hero.name %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, name: %2$@"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.selected %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cover selected"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.selected.plus %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cover selected, Plus"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.swatch %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cover"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.swatch.plus %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cover, Plus"
+          }
+        }
+      }
+    },
+    "onboarding.cover.a11y.swatches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cover styles"
+          }
+        }
+      }
+    },
+    "onboarding.cover.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.cover.name.a11y" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name on cover"
+          }
+        }
+      }
+    },
+    "onboarding.cover.name.helper" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optional. Shown on your cover and kept on this device."
+          }
+        }
+      }
+    },
+    "onboarding.cover.name.placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your name"
+          }
+        }
+      }
+    },
+    "onboarding.cover.plus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus"
+          }
+        }
+      }
+    },
+    "onboarding.cover.style.clay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terracotta"
+          }
+        }
+      }
+    },
+    "onboarding.cover.style.forest" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evergreen"
+          }
+        }
+      }
+    },
+    "onboarding.cover.style.harbor" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harbor"
+          }
+        }
+      }
+    },
+    "onboarding.cover.style.midnight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midnight"
+          }
+        }
+      }
+    },
+    "onboarding.cover.style.rosewood" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rosewood"
+          }
+        }
+      }
+    },
+    "onboarding.cover.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can change it any time in Settings."
+          }
+        }
+      }
+    },
+    "onboarding.cover.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick your **cover**."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.collected %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ collected. That’s your first stamp."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.ctaHint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a stamp to continue"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.page" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport page 1"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.pageValue %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld of 6 slots filled"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.slotFilled %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slot 1, %@ stamp, collected today"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.starter %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.starterDimmed %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, %2$@, dimmed"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.a11y.starterHint %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adds %@ to your passport as your first stamp"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.page.number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PAGE 01"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.status.choose" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved on this device. No account needed."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.status.done.date %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collected %@. Saved on this device."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.status.done.today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collected today. Saved on this device."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.status.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t save your stamp."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.subtitle.choose" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap one to add it to your passport."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.subtitle.done %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is in your passport. Now let’s make it yours."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.title.choose" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your\n**first** stamp"
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.title.done" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That’s your\n**first** stamp."
+          }
+        }
+      }
+    },
+    "onboarding.firstStamp.tryAgain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try again"
+          }
+        }
+      }
+    },
+    "onboarding.interests.a11y.grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interests"
+          }
+        }
+      }
+    },
+    "onboarding.interests.a11y.hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double tap to pick or unpick."
+          }
+        }
+      }
+    },
+    "onboarding.interests.a11y.notSelected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not selected"
+          }
+        }
+      }
+    },
+    "onboarding.interests.a11y.selected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected"
+          }
+        }
+      }
+    },
+    "onboarding.interests.a11y.selectedCount %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld picked"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld picked"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.interests.a11y.tile %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "onboarding.interests.cities.desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skylines, old towns"
+          }
+        }
+      }
+    },
+    "onboarding.interests.cities.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cities"
+          }
+        }
+      }
+    },
+    "onboarding.interests.coasts.desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sea, sand, sunsets"
+          }
+        }
+      }
+    },
+    "onboarding.interests.coasts.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coasts"
+          }
+        }
+      }
+    },
+    "onboarding.interests.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.interests.food.desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markets and meals"
+          }
+        }
+      }
+    },
+    "onboarding.interests.food.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Food"
+          }
+        }
+      }
+    },
+    "onboarding.interests.gems.desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off the beaten path"
+          }
+        }
+      }
+    },
+    "onboarding.interests.gems.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hidden gems"
+          }
+        }
+      }
+    },
+    "onboarding.interests.hint.count %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld picked. You can change this any time."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld picked. You can change this any time."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.interests.hint.none" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick at least one to continue."
+          }
+        }
+      }
+    },
+    "onboarding.interests.history.desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruins and landmarks"
+          }
+        }
+      }
+    },
+    "onboarding.interests.history.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "onboarding.interests.mountains.desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peaks and trails"
+          }
+        }
+      }
+    },
+    "onboarding.interests.mountains.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mountains"
+          }
+        }
+      }
+    },
+    "onboarding.interests.page.number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PAGE 02"
+          }
+        }
+      }
+    },
+    "onboarding.interests.page.visas" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VISAS"
+          }
+        }
+      }
+    },
+    "onboarding.interests.postmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picked"
+          }
+        }
+      }
+    },
+    "onboarding.interests.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick as many as you like. We’ll start your passport with stamps to match."
+          }
+        }
+      }
+    },
+    "onboarding.interests.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What do you\nlove to **find**?"
+          }
+        }
+      }
+    },
+    "onboarding.plus.a11y.loading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading"
+          }
+        }
+      }
+    },
+    "onboarding.plus.a11y.save %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "save %lld percent"
+          }
+        }
+      }
+    },
+    "onboarding.plus.a11y.selected %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ selected. %2$@."
+          }
+        }
+      }
+    },
+    "onboarding.plus.badge.save %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save %lld%%"
+          }
+        }
+      }
+    },
+    "onboarding.plus.banner.pending" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waiting for approval. You can keep using StampQuest."
+          }
+        }
+      }
+    },
+    "onboarding.plus.banner.restored" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus restored."
+          }
+        }
+      }
+    },
+    "onboarding.plus.banner.subscribed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to Plus."
+          }
+        }
+      }
+    },
+    "onboarding.plus.banner.trial" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trial started. Welcome to Plus."
+          }
+        }
+      }
+    },
+    "onboarding.plus.billedMonthly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Billed monthly"
+          }
+        }
+      }
+    },
+    "onboarding.plus.cta.loading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading plans…"
+          }
+        }
+      }
+    },
+    "onboarding.plus.cta.retry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try again"
+          }
+        }
+      }
+    },
+    "onboarding.plus.cta.subscribe %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscribe for %1$@ per %2$@"
+          }
+        }
+      }
+    },
+    "onboarding.plus.cta.trial %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start %lld-day free trial"
+          }
+        }
+      }
+    },
+    "onboarding.plus.error.purchase" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t complete the purchase. Try again."
+          }
+        }
+      }
+    },
+    "onboarding.plus.error.unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can’t load plans right now."
+          }
+        }
+      }
+    },
+    "onboarding.plus.finePrint.billed %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Billed %1$@ per %2$@, starting today."
+          }
+        }
+      }
+    },
+    "onboarding.plus.finePrint.billed.cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel anytime in Settings."
+          }
+        }
+      }
+    },
+    "onboarding.plus.finePrint.trial %lld %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free for %1$lld days, then %2$@ per %3$@."
+          }
+        }
+      }
+    },
+    "onboarding.plus.finePrint.trial.cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No payment due today. Cancel anytime in Settings."
+          }
+        }
+      }
+    },
+    "onboarding.plus.headline.brand" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StampQuest"
+          }
+        }
+      }
+    },
+    "onboarding.plus.headline.word" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus"
+          }
+        }
+      }
+    },
+    "onboarding.plus.per %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "per %@"
+          }
+        }
+      }
+    },
+    "onboarding.plus.perMonth %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ per month"
+          }
+        }
+      }
+    },
+    "onboarding.plus.perk.collections" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exclusive stamp collections"
+          }
+        }
+      }
+    },
+    "onboarding.plus.perk.covers" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium covers and themes"
+          }
+        }
+      }
+    },
+    "onboarding.plus.perk.layouts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced layouts and exports"
+          }
+        }
+      }
+    },
+    "onboarding.plus.perk.sync" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optional sync and backup"
+          }
+        }
+      }
+    },
+    "onboarding.plus.perks.a11y" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Included with Plus"
+          }
+        }
+      }
+    },
+    "onboarding.plus.plan.monthly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly"
+          }
+        }
+      }
+    },
+    "onboarding.plus.plan.yearly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yearly"
+          }
+        }
+      }
+    },
+    "onboarding.plus.privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        }
+      }
+    },
+    "onboarding.plus.reminder.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel anytime in Settings."
+          }
+        }
+      }
+    },
+    "onboarding.plus.reminder.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Plus trial ends in 2 days"
+          }
+        }
+      }
+    },
+    "onboarding.plus.renews.day" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renews daily"
+          }
+        }
+      }
+    },
+    "onboarding.plus.renews.every %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renews every %@"
+          }
+        }
+      }
+    },
+    "onboarding.plus.renews.month" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renews monthly"
+          }
+        }
+      }
+    },
+    "onboarding.plus.renews.week" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renews weekly"
+          }
+        }
+      }
+    },
+    "onboarding.plus.renews.year" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renews yearly"
+          }
+        }
+      }
+    },
+    "onboarding.plus.restore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore purchases"
+          }
+        }
+      }
+    },
+    "onboarding.plus.restore.failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t restore purchases. Try again."
+          }
+        }
+      }
+    },
+    "onboarding.plus.restore.none" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No purchases to restore."
+          }
+        }
+      }
+    },
+    "onboarding.plus.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your stamps and memories stay free."
+          }
+        }
+      }
+    },
+    "onboarding.plus.terms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms"
+          }
+        }
+      }
+    },
+    "onboarding.plus.timeline.begins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan begins"
+          }
+        }
+      }
+    },
+    "onboarding.plus.timeline.billed %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Billed %@"
+          }
+        }
+      }
+    },
+    "onboarding.plus.timeline.fullAccess" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full access"
+          }
+        }
+      }
+    },
+    "onboarding.plus.timeline.remind" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We remind you"
+          }
+        }
+      }
+    },
+    "onboarding.plus.timeline.today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "onboarding.plus.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StampQuest Plus"
+          }
+        }
+      }
+    },
+    "onboarding.plus.unit.day %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.plus.unit.month %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "month"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld months"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.plus.unit.week %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "week"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld weeks"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.plus.unit.year %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "year"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld years"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.progress.label %lld %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progress, step %1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.announce.closed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport closed"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.announce.open" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport open at page 1"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.closed %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport, closed. %@ cover"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.closed.name %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport, closed. %1$@ cover, name: %2$@"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.done %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@. Done."
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.hint.close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double-tap to close"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.hint.open" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double-tap to open"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.off %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@. Off."
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.open %@ %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Passport, open at page 1. %1$@. %2$lld stamp collected."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Passport, open at page 1. %1$@. %2$lld stamps collected."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.progress" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All 5 steps done"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.slot %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ stamp in slot 1"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.value.closed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closed"
+          }
+        }
+      }
+    },
+    "onboarding.ready.a11y.value.open" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
+          }
+        }
+      }
+    },
+    "onboarding.ready.caption" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the passport to close or open it."
+          }
+        }
+      }
+    },
+    "onboarding.ready.count %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld stamp collected"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld stamps collected"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "onboarding.ready.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.ready.holder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passport holder"
+          }
+        }
+      }
+    },
+    "onboarding.ready.issued %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Issued %@"
+          }
+        }
+      }
+    },
+    "onboarding.ready.name.placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your name"
+          }
+        }
+      }
+    },
+    "onboarding.ready.page" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page 1"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.cover %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cover"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.cover.name %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cover, with your name"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.cover.preview %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ cover, %2$@ is a Plus preview"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.stamp.date %@ %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ stamp, collected %2$@"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.stamp.none" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No stamp yet"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.stamp.today %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ stamp, collected today"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.verified.off" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verified stamps are off"
+          }
+        }
+      }
+    },
+    "onboarding.ready.row.verified.on" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verified stamps are on"
+          }
+        }
+      }
+    },
+    "onboarding.ready.subtitle %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, your first stamp is already inside."
+          }
+        }
+      }
+    },
+    "onboarding.ready.subtitle.noName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your first stamp is already inside."
+          }
+        }
+      }
+    },
+    "onboarding.ready.subtitle.noStamp" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add your first stamp whenever you like."
+          }
+        }
+      }
+    },
+    "onboarding.ready.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your passport\nis **ready**."
+          }
+        }
+      }
+    },
+    "onboarding.verification.a11y.hero.collected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Example: a stamp you added yourself"
+          }
+        }
+      }
+    },
+    "onboarding.verification.a11y.hero.verified" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Example: how a verified stamp looks"
+          }
+        }
+      }
+    },
+    "onboarding.verification.caption.collected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You added it yourself. No location needed."
+          }
+        }
+      }
+    },
+    "onboarding.verification.caption.verified" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your phone was there. It earns a gold seal."
+          }
+        }
+      }
+    },
+    "onboarding.verification.control.a11y" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview"
+          }
+        }
+      }
+    },
+    "onboarding.verification.control.collected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collected"
+          }
+        }
+      }
+    },
+    "onboarding.verification.control.verified" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verified"
+          }
+        }
+      }
+    },
+    "onboarding.verification.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn on verified stamps"
+          }
+        }
+      }
+    },
+    "onboarding.verification.explainer.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verified stamps use your location only while StampQuest is open, and only to check that you’re at the place. Collecting stamps by hand never needs it."
+          }
+        }
+      }
+    },
+    "onboarding.verification.explainer.continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.verification.explainer.notNow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not now"
+          }
+        }
+      }
+    },
+    "onboarding.verification.explainer.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Before your iPhone asks"
+          }
+        }
+      }
+    },
+    "onboarding.verification.notNow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not now"
+          }
+        }
+      }
+    },
+    "onboarding.verification.notice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No problem. Verified stamps stay off. You can turn them on later in Settings."
+          }
+        }
+      }
+    },
+    "onboarding.verification.postmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collected"
+          }
+        }
+      }
+    },
+    "onboarding.verification.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add any stamp by hand. Verify a visit and it earns a gold seal."
+          }
+        }
+      }
+    },
+    "onboarding.verification.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collected is **yours**.\nVerified is **earned**."
+          }
+        }
+      }
+    },
+    "onboarding.verification.trust.foreground" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checked only while the app is open."
+          }
+        }
+      }
+    },
+    "onboarding.verification.trust.optional" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optional. Collecting never needs it."
+          }
+        }
+      }
+    },
+    "onboarding.verification.trust.private" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private unless you choose to share."
+          }
+        }
+      }
+    },
+    "onboarding.welcome.caption" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free to start. No account needed."
+          }
+        }
+      }
+    },
+    "onboarding.welcome.cta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start your passport"
+          }
+        }
+      }
+    },
+    "onboarding.welcome.headline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your {world}, one {stamp} at a time."
+          }
+        }
+      }
+    },
+    "onboarding.welcome.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect illustrated stamps from places you love and build a passport that’s entirely yours."
+          }
+        }
+      }
+    },
+    "onboarding.welcome.wordmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StampQuest"
+          }
+        }
+      }
+    },
+    "· %@" : {},
+    "“Follow system” respects the Reduce Motion setting in iOS. Haptics are only used for meaningful moments, like a stamp landing." : {}
+  },
+  "version" : "1.0"
+}

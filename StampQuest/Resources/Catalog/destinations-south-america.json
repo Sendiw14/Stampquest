@@ -1,0 +1,72 @@
+{
+  "destinations": [
+    {
+      "id": "machu-picchu",
+      "name": "Machu Picchu",
+      "landmark": "Inca Citadel",
+      "country": "PE",
+      "region": "southAmerica",
+      "category": "landmark",
+      "lat": -13.1631,
+      "lon": -72.5450,
+      "verificationRadius": 2000,
+      "featured": true,
+      "summary": "An Inca citadel high in the Andes.",
+      "story": "Machu Picchu was built in the 15th century on a ridge above the Urubamba River valley, most likely as an estate for an Inca ruler. Its dry-stone terraces, temples and houses survive on a mountain saddle, and the site is a UNESCO World Heritage Site.",
+      "keywords": ["inca", "andes", "peru", "terraces", "llama", "ruins", "huayna picchu"],
+      "altNames": ["Machu Pikchu", "Lost City of the Incas"],
+      "stamp": { "motif": "machuPicchu", "palette": "emerald", "sun": [26, 28, 9], "clouds": 0.3, "alt": "Stamp illustration of green Inca terraces and stone houses below a steep peak, with a llama in front." }
+    },
+    {
+      "id": "rio-christ-the-redeemer",
+      "name": "Rio de Janeiro",
+      "landmark": "Christ the Redeemer",
+      "country": "BR",
+      "region": "southAmerica",
+      "category": "landmark",
+      "lat": -22.9519,
+      "lon": -43.2105,
+      "verificationRadius": 800,
+      "featured": false,
+      "summary": "An Art Deco statue with open arms atop Corcovado.",
+      "story": "Christ the Redeemer stands 30 metres tall, not counting its pedestal, on Corcovado mountain above Rio de Janeiro. Completed in 1931, the Art Deco statue is made of reinforced concrete covered in soapstone tiles, and its outstretched arms span 28 metres.",
+      "keywords": ["statue", "rio", "brazil", "corcovado", "art deco", "mountain", "cristo redentor"],
+      "altNames": ["Cristo Redentor", "Christ the Redeemer Rio"],
+      "stamp": { "motif": "christRedeemer", "palette": "jungle", "sun": [78, 40, 9], "clouds": 0.4, "alt": "Stamp illustration of the Christ the Redeemer statue with open arms on a green mountain peak." }
+    },
+    {
+      "id": "torres-del-paine",
+      "name": "Torres del Paine",
+      "landmark": "Torres del Paine National Park",
+      "country": "CL",
+      "region": "southAmerica",
+      "category": "nationalPark",
+      "lat": -50.9423,
+      "lon": -73.4068,
+      "verificationRadius": 20000,
+      "featured": false,
+      "summary": "Granite towers, glaciers and turquoise lakes at the southern end of the Andes.",
+      "story": "Torres del Paine National Park in Chilean Patagonia is named for its three granite towers. The park also holds glaciers and lakes and is known for the W Trek. Winds can be fierce and the weather changes quickly.",
+      "keywords": ["patagonia", "chile", "granite", "trek", "w trek", "glacier", "andes"],
+      "altNames": ["Torres del Paine National Park", "Paine Towers"],
+      "stamp": { "motif": "peaks", "palette": "haze", "variant": 1, "sun": [80, 26, 9], "clouds": 0.4, "alt": "Stamp illustration of three granite spires rising above shrubland in a pale morning haze." }
+    },
+    {
+      "id": "iguazu-falls",
+      "name": "Iguazú Falls",
+      "landmark": "Garganta del Diablo",
+      "country": "AR",
+      "region": "southAmerica",
+      "category": "nature",
+      "lat": -25.6953,
+      "lon": -54.4367,
+      "verificationRadius": 6000,
+      "featured": false,
+      "summary": "Hundreds of cascades spread across a curve of rainforest.",
+      "story": "Iguazú Falls is a system of roughly 275 waterfalls on the border of Argentina and Brazil. The most dramatic section, Garganta del Diablo, the Devil's Throat, drops into a narrow chasm. The surrounding subtropical rainforest is protected in national parks on both sides of the border.",
+      "keywords": ["waterfall", "argentina", "brazil", "rainforest", "devil's throat", "cascades", "border"],
+      "altNames": ["Iguazu Falls", "Iguaçu Falls", "Cataratas del Iguazú"],
+      "stamp": { "motif": "waterfall", "palette": "emerald", "variant": 2, "sun": [76, 22, 9], "clouds": 0.3, "alt": "Stamp illustration of many white waterfalls tumbling between green jungle islands." }
+    }
+  ]
+}

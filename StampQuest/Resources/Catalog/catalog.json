@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.10.1",
+  "destinationFiles": [
+    "destinations-europe",
+    "destinations-asia",
+    "destinations-africa",
+    "destinations-north-america",
+    "destinations-south-america",
+    "destinations-oceania"
+  ],
+  "collections": [
+    {
+      "id": "world-icons",
+      "title": "World Icons",
+      "subtitle": "Ten places everyone knows",
+      "summary": "The monuments that shape how the world pictures travel, from a Paris skyline to a harbour in Sydney.",
+      "symbol": "globe.europe.africa",
+      "cover": "paris-eiffel-tower",
+      "destinations": ["paris-eiffel-tower", "rome-colosseum", "agra-taj-mahal", "new-york-statue-of-liberty", "giza-pyramids", "sydney-opera-house", "san-francisco-golden-gate", "machu-picchu", "rio-christ-the-redeemer", "beijing-great-wall-badaling"]
+    },
+    {
+      "id": "european-architecture",
+      "title": "European Architecture",
+      "subtitle": "Spires, domes and stone",
+      "summary": "A tour through a thousand years of building, from Gothic and Manueline to Gaudí and concrete modernism.",
+      "symbol": "building.columns",
+      "cover": "barcelona-sagrada-familia",
+      "destinations": ["barcelona-sagrada-familia", "florence-duomo", "budapest-parliament", "bavaria-neuschwanstein", "reykjavik-hallgrimskirkja", "lisbon-belem-tower", "london-tower-bridge", "paris-louvre", "edinburgh-castle", "prague-charles-bridge"]
+    },
+    {
+      "id": "island-escapes",
+      "title": "Island Escapes",
+      "subtitle": "Sea, sand and slow days",
+      "summary": "Volcanic cliffs, temple rocks and lagoons: five islands worth crossing an ocean for.",
+      "symbol": "water.waves",
+      "cover": "santorini-oia",
+      "destinations": ["santorini-oia", "bali-tanah-lot", "bora-bora", "whitehaven-beach", "oahu-diamond-head"]
+    },
+    {
+      "id": "natural-wonders",
+      "title": "Natural Wonders",
+      "subtitle": "Mountains, falls and canyons",
+      "summary": "Landscapes that put people in perspective, collected from six continents.",
+      "symbol": "mountain.2",
+      "cover": "zermatt-matterhorn",
+      "destinations": ["norway-geirangerfjord", "zermatt-matterhorn", "mount-fuji", "grand-canyon", "victoria-falls", "iguazu-falls", "niagara-falls", "uluru", "milford-sound", "halong-bay", "banff-lake-louise", "cape-town-table-mountain"]
+    },
+    {
+      "id": "historic-landmarks",
+      "title": "Historic Landmarks",
+      "subtitle": "Walk where history happened",
+      "summary": "Ancient cities, temples and citadels that have outlasted empires.",
+      "symbol": "scroll",
+      "cover": "rome-colosseum",
+      "destinations": ["rome-colosseum", "athens-acropolis", "giza-pyramids", "petra-jordan", "machu-picchu", "chichen-itza", "siem-reap-angkor-wat", "beijing-great-wall-badaling", "sigiriya", "meteora"]
+    },
+    {
+      "id": "food-and-culture",
+      "title": "Food & Culture",
+      "subtitle": "Taste the place",
+      "summary": "Markets, music and tables where a city's character comes through in what is cooked and played.",
+      "symbol": "fork.knife",
+      "cover": "new-orleans-french-quarter",
+      "destinations": ["new-orleans-french-quarter", "marrakech-koutoubia", "istanbul-maidens-tower", "kyoto-fushimi-inari", "bangkok-wat-arun", "venice-grand-canal", "seoul-gyeongbokgung"]
+    },
+    {
+      "id": "coastal-journeys",
+      "title": "Coastal Journeys",
+      "subtitle": "Where land meets water",
+      "summary": "Harbours, forts and cliff-top villages along some of the world's best-loved shorelines.",
+      "symbol": "sailboat",
+      "cover": "cinque-terre-manarola",
+      "destinations": ["cinque-terre-manarola", "santorini-oia", "lisbon-belem-tower", "galle-fort", "sydney-opera-house", "whitehaven-beach", "bali-tanah-lot", "halong-bay", "oahu-diamond-head"]
+    },
+    {
+      "id": "national-parks",
+      "title": "National Parks",
+      "subtitle": "Protected and unforgettable",
+      "summary": "Six parks where the landscape is the main attraction.",
+      "symbol": "tree",
+      "cover": "grand-canyon",
+      "destinations": ["grand-canyon", "yellowstone-old-faithful", "serengeti", "torres-del-paine", "banff-lake-louise", "uluru"]
+    },
+    {
+      "id": "weekend-escapes",
+      "title": "Weekend Escapes",
+      "subtitle": "Big on character, easy on time",
+      "summary": "Compact cities and villages that reward a long weekend.",
+      "symbol": "suitcase",
+      "cover": "prague-charles-bridge",
+      "destinations": ["prague-charles-bridge", "amsterdam-canals", "venice-grand-canal", "lisbon-belem-tower", "edinburgh-castle", "budapest-parliament", "florence-duomo", "hallstatt", "reykjavik-hallgrimskirkja", "barcelona-sagrada-familia"]
+    },
+    {
+      "id": "journey-across-asia",
+      "title": "Journey Across Asia",
+      "subtitle": "From the Bosphorus to the Pacific",
+      "summary": "Temples, towers and skylines from the Middle East to East Asia.",
+      "symbol": "map",
+      "cover": "kyoto-fushimi-inari",
+      "destinations": ["tokyo-tower", "kyoto-fushimi-inari", "mount-fuji", "agra-taj-mahal", "siem-reap-angkor-wat", "beijing-great-wall-badaling", "singapore-marina-bay", "bali-tanah-lot", "dubai-burj-khalifa", "petra-jordan", "halong-bay", "seoul-gyeongbokgung", "bangkok-wat-arun", "sigiriya", "galle-fort"]
+    },
+    {
+      "id": "bridges-and-towers",
+      "title": "Bridges & Towers",
+      "subtitle": "Engineering you can feel",
+      "summary": "Iron, steel and stone reaching across water and into the sky.",
+      "symbol": "arrow.up.and.down.and.arrow.left.and.right",
+      "cover": "san-francisco-golden-gate",
+      "destinations": ["paris-eiffel-tower", "tokyo-tower", "london-tower-bridge", "san-francisco-golden-gate", "prague-charles-bridge", "lisbon-belem-tower", "istanbul-maidens-tower", "dubai-burj-khalifa", "singapore-marina-bay"]
+    },
+    {
+      "id": "hidden-gems",
+      "title": "Hidden Gems",
+      "subtitle": "Quiet corners worth the detour",
+      "summary": "Places that reward travellers who go a little further than the usual list.",
+      "symbol": "sparkle",
+      "cover": "meteora",
+      "destinations": ["hallstatt", "meteora", "cappadocia", "cinque-terre-manarola", "galle-fort", "bali-tanah-lot"]
+    }
+  ]
+}
